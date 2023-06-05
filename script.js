@@ -9,6 +9,7 @@
  };
 
 
+
 /*===auto typing effect */
 const typed=new Typed('.multiple-text',{
 
