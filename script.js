@@ -8,6 +8,7 @@
     navbar.classList.toggle('active');
  };
 
+
 /*===auto typing effect */
 const typed=new Typed('.multiple-text',{
 
