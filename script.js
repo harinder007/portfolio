@@ -10,7 +10,7 @@
 
 /*===auto typing effect */
 const typed=new Typed('.multiple-text',{
-
+    
     strings:['Frontend Devloper','YouTuber','Vlogger','Video Editor'],
     typeSpeed:100,
     backSpeed:100,
