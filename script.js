@@ -16,7 +16,7 @@ const typed=new Typed('.multiple-text',{
     backSpeed:100,
     backDelay:100,
     loop:true
-  
+   
   
 });
 
